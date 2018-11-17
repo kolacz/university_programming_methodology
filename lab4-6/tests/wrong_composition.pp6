@@ -1,0 +1,4 @@
+fun g (y : int) : int = 2 * y
+fun f (h : int) : int = g h
+input x in
+f g

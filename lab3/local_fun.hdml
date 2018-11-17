@@ -1,0 +1,4 @@
+def fun(A, B) = 
+    def abc(A, B) = 
+        let N = #A & ~B in
+        N | B&A

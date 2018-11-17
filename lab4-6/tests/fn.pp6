@@ -1,0 +1,2 @@
+input y in
+(fn(x:int)->x+1) y
